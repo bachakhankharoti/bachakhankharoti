@@ -5,7 +5,7 @@
 
 <div align="center">
     
-[![Twitter Badge](https://img.shields.io/badge/-Bacha_khan-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://x.com/BachaKhan193734)]([](https://x.com/BachaKhan193734))
+[![Twitter Badge](https://img.shields.io/badge/-Bacha_khan-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://x.com/BachaKhan193734)]((https://x.com/BachaKhan193734))
 [![Linkedin Badge](https://img.shields.io/badge/-Bacha_khan-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bacha-khan-5101831bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)](https://www.linkedin.com/in/bacha-khan-5101831bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
 [![Gmail Badge](https://img.shields.io/badge/-engineerbachakhan@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:engineerbachakhan@gmail.com&color=rgb(234,67,53))](mailto:engineerbachakhan@gmail.com)
 </div>
