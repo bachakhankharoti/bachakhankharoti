@@ -6,13 +6,12 @@
 <div align="center">
     
 [![Twitter Badge](https://img.shields.io/badge/-Bacha_khan-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://x.com/BachaKhan193734)]([](https://x.com/BachaKhan193734))
-[![Linkedin Badge](https://img.shields.io/badge/-Bakht_Muhammad-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engbakhtmuhammad/)](https://www.linkedin.com/in/engbakhtmuhammad/)
-[![Gmail Badge](https://img.shields.io/badge/-engbakhtmuhammad@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:engbakhtmuhammad@gmail.com&color=rgb(234,67,53))](mailto:engbakhtmuhammad@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/-Bakht_Muhammad-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/&color=rgb(234,67,53))](https://www.youtube.com/@engbakhtmuhammad)
+[![Linkedin Badge](https://img.shields.io/badge/-Bacha_khan-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bacha-khan-5101831bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)](https://www.linkedin.com/in/bacha-khan-5101831bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
+[![Gmail Badge](https://img.shields.io/badge/-engineerbachakhan@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:engineerbachakhan@gmail.com&color=rgb(234,67,53))](mailto:engineerbachakhan@gmail.com)
 </div>
 
 <h2>About Me</h2>
-<p align="left">I'm a freelance Flutter Developer and graduated as software engineer from <a href="http://www.buitms.edu.pk/">BUITEMS</a>. Experienced and forward-looking software engineer with a 2+ years of background in creating flutter apps. I Have extensive knowledge in front-end UI/UX back-end mobile payment integration..</p>
+<p align="left">I'm a freelance Flutter Developer and graduated as Computer engineer from <a href="http://www.buitms.edu.pk/">BUITEMS</a>. Experienced and forward-looking softwaere engineer with a 1+ years of background in creating flutter apps. I Have extensive knowledge in front-end UI/UX back-end mobile payment integration..</p>
 
 ## My Intrests
 - 👀 Flutter Design | Full Stack Development | iOS/App Development | UI Design
@@ -43,11 +42,11 @@
 </p> -->
 
 
-## Hire Bakht! ✅
-Feel free to contact him @ engbakhtmuhammad@gmail.com
+## Hire Bacha khan! ✅
+Feel free to contact him @ engineerbacha@gmail.com
 
-## Why Bakht ❔
-What separates Bakht from the rest? He is:
+## Why Bacha ❔
+What separates Bacha from the rest? He is:
 
 A doer. Period. A believer in Less talk and more work.
 Never settles. Always finds ways to improve.
@@ -57,8 +56,8 @@ Not afraid to apply new knowledge on the go
 ## My Flutter Work 💻 💼
 
 <div align="center">
-    <a href="https://github.com/engbakhtmuhammad/Facebook_Clone"> <img width="49%"
- src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/Facebook.png"/></a>
+    <a href="https://github.com/engineerbachakhan/Facebook_Clone"> <img width="49%"
+ src="https://github.com/engineerbachakhan/engineerbachakhanblob/main/portfolio/Facebook.png"/></a>
      <a href="https://github.com/engbakhtmuhammad/symptom_checker"> <img width="49%"    src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/SymptomChecker.png"/></a>
   <a href="https://github.com/engbakhtmuhammad/Land_of_Dreams"> <img width="49%"   src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/LandOfDreamsUiShot.png"/> </a>
    <a href="https://github.com/engbakhtmuhammad/Beats_Studio "> <img width="49%"  src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/budsStudioAppShot.png"/> </a>
