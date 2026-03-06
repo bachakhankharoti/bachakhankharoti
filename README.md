@@ -43,7 +43,7 @@
 
 
 ## Hire Bacha khan! ✅
-Feel free to contact him @ engineerbacha@gmail.com
+Feel free to contact him @ engineerbachakhan@gmail.com
 
 ## Why Bacha ❔
 What separates Bacha from the rest? He is:
@@ -58,22 +58,22 @@ Not afraid to apply new knowledge on the go
 <div align="center">
     <a href="https://github.com/engineerbachakhan/Facebook_Clone"> <img width="49%"
  src="https://github.com/engineerbachakhan/engineerbachakhanblob/main/portfolio/Facebook.png"/></a>
-     <a href="https://github.com/engbakhtmuhammad/symptom_checker"> <img width="49%"    src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/SymptomChecker.png"/></a>
-  <a href="https://github.com/engbakhtmuhammad/Land_of_Dreams"> <img width="49%"   src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/LandOfDreamsUiShot.png"/> </a>
-   <a href="https://github.com/engbakhtmuhammad/Beats_Studio "> <img width="49%"  src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/budsStudioAppShot.png"/> </a>
-   <a href="https://github.com/engbakhtmuhammad/Streaming_UI" ><img width="49%" 
- src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/animeAppShot.png"/></a>
-    <a href="https://github.com/engbakhtmuhammad/World_Touring_UI" > <img width="49%"  src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/TouringAppShot.png"/></a>
-   <a href="https://github.com/engbakhtmuhammad/Shoping_UI"> <img width="49%" 
- src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/upperAppShot.png"/></a>
-     <a href="https://github.com/engbakhtmuhammad/"> <img width="49%" 
- src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/5400455.jpg.png"/></a>
-    <a href="https://github.com/engbakhtmuhammad/Chat_UI"> <img   
- src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/chatAppShot.png"/></a>
-    <a href="https://github.com/engbakhtmuhammad/SmartHomePageUI"> <img width="49%"  src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/SmartHomePageUI.png"/></a>
-    <a href="https://github.com/engbakhtmuhammad/squeez_game"> <img width="49%"  src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/SqueezeCaneShot.png"/></a>
-     <a href="https://github.com/engbakhtmuhammad/GoogleAuthChatApp"> <img width="38%"  src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/FlutterChatDemo.gif"/></a>
-    <a href="https://github.com/engbakhtmuhammad/GoogleAuthChatApp"> <img width="60%"   src="https://github.com/engbakhtmuhammad/engbakhtmuhammad/blob/main/portfolio/tutorshot.png"/></a>
+     <a href="https://github.com/engineerbachakhan/symptom_checker"> <img width="49%"    src="https://github.com/engineerbachakhan/engineerbachakhan/blob/main/portfolio/SymptomChecker.png"/></a>
+  <a href="https://github.com/engineerbachakhan/Land_of_Dreams"> <img width="49%"   src="https://github.com/engineerbachakhan/engineerbachakhan/blob/main/portfolio/LandOfDreamsUiShot.png"/> </a>
+   <a href="https://github.com/engineerbachakhan/Beats_Studio "> <img width="49%"  src="https://github.com/engineerbachakhan/engineerbachakhan/blob/main/portfolio/budsStudioAppShot.png"/> </a>
+   <a href="https://github.com/engineerbachakhan/Streaming_UI" ><img width="49%" 
+ src="https://github.com/engineerbachakhan/engineerbachakhan/blob/main/portfolio/animeAppShot.png"/></a>
+    <a href="https://github.com/engineerbachakhan/World_Touring_UI" > <img width="49%"  src="https://github.com/engineerbachakhan/engineerbachakhan/blob/main/portfolio/TouringAppShot.png"/></a>
+   <a href="https://github.com/engineerbachakhan/Shoping_UI"> <img width="49%" 
+ src="https://github.com/engineerbachakhan/engineerbachakhan/blob/main/portfolio/upperAppShot.png"/></a>
+     <a href="https://github.com/engineerbachakhan/"> <img width="49%" 
+ src="https://github.com/engineerbachakhan/engineerbachakhan/blob/main/portfolio/5400455.jpg.png"/></a>
+    <a href="https://github.com/engineerbachakhan/Chat_UI"> <img   
+ src="https://github.com/engineerbachakhan/engineerbachakhan/blob/main/portfolio/chatAppShot.png"/></a>
+    <a href="https://github.com/engineerbachakhan/SmartHomePageUI"> <img width="49%"  src="https://github.com/engineerbachakhan/engineerbachakhan/blob/main/portfolio/SmartHomePageUI.png"/></a>
+    <a href="https://github.com/engineerbachakhan/squeez_game"> <img width="49%"  src="https://github.com/engineerbachakhan/engineerbachakhan/blob/main/portfolio/SqueezeCaneShot.png"/></a>
+     <a href="https://github.com/engineerbachakhanGoogleAuthChatApp"> <img width="38%"  src="https://github.com/engineerbachakhan/engineerbachakhanblob/main/portfolio/FlutterChatDemo.gif"/></a>
+    <a href="https://github.com/engineerbachakhan/GoogleAuthChatApp"> <img width="60%"   src="https://github.com/engineerbachakhan/engineerbachakhan/blob/main/portfolio/tutorshot.png"/></a>
     
 </div>
 
